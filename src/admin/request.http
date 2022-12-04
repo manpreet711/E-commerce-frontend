@@ -1,0 +1,5 @@
+PUT  http://localhost:8000/api/category/5f4bd689e15fa73f8840238c/5f2c49da88e86b25f0f4b485
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjJjNDlkYTg4ZTg2YjI1ZjBmNGI0ODUiLCJpYXQiOjE1OTgwOTU1Njd9.Y9tUl0cj7pI7e7glDXmbMZs02ZuX-M6rrgmLl78KmpE
+
+
